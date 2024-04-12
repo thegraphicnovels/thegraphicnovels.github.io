@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "co.thegn.pinpleapp",
+    "sha256_cert_fingerprints":
+    ["B3:48:96:04:77:74:ED:44:13:5C:ED:DE:FD:18:80:93:33:09:76:DE:7C:58:C1:39:D7:4C:85:EB:65:91:9B:F3"]
+  }
+}]
