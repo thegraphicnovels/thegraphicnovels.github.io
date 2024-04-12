@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "7PBF85HTZG.co.thegn.pinpleapp",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
