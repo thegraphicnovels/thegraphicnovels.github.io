@@ -13,6 +13,10 @@
           {
             "/": "/pins/detail/*",
             "comment": "Matches any URL with a path that starts with /pins/detail/."
+          },
+          {
+            "/": "/feeds/detail/*",
+            "comment": "Matches any URL with a path that starts with /feeds/detail/."
           }
         ]
       }
